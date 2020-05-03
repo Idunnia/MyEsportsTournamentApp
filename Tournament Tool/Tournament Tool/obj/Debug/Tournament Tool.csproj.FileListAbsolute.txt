@@ -1,0 +1,11 @@
+C:\Users\pi5294wv\source\repos\Esports Software Project\Tournament Tool\Tournament Tool\bin\Debug\Tournament Tool.exe.config
+C:\Users\pi5294wv\source\repos\Esports Software Project\Tournament Tool\Tournament Tool\bin\Debug\Tournament Tool.exe
+C:\Users\pi5294wv\source\repos\Esports Software Project\Tournament Tool\Tournament Tool\bin\Debug\Tournament Tool.pdb
+C:\Users\pi5294wv\source\repos\Esports Software Project\Tournament Tool\Tournament Tool\obj\Debug\Tournament Tool.csprojAssemblyReference.cache
+C:\Users\pi5294wv\source\repos\Esports Software Project\Tournament Tool\Tournament Tool\obj\Debug\Tournament_Tool.Form1.resources
+C:\Users\pi5294wv\source\repos\Esports Software Project\Tournament Tool\Tournament Tool\obj\Debug\Tournament_Tool.Properties.Resources.resources
+C:\Users\pi5294wv\source\repos\Esports Software Project\Tournament Tool\Tournament Tool\obj\Debug\Tournament_Tool.TournamentCreationForm.resources
+C:\Users\pi5294wv\source\repos\Esports Software Project\Tournament Tool\Tournament Tool\obj\Debug\Tournament Tool.csproj.GenerateResource.cache
+C:\Users\pi5294wv\source\repos\Esports Software Project\Tournament Tool\Tournament Tool\obj\Debug\Tournament Tool.exe
+C:\Users\pi5294wv\source\repos\Esports Software Project\Tournament Tool\Tournament Tool\obj\Debug\Tournament Tool.pdb
+C:\Users\pi5294wv\source\repos\Esports Software Project\Tournament Tool\Tournament Tool\obj\Debug\Tournament_Tool.TournamentViewer.resources
